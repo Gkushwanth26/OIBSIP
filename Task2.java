@@ -6,6 +6,8 @@ public class Task2 {
         System.out.println();
         System.out.println();
         int i=1;
+        
+        /* i = No of attempts to play the game*/
         while(i>0 && i<26){
             System.out.println();
             System.out.printf("enter a number:");
