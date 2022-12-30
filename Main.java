@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.Math;
-public class Task2 {
+public class Main {
     public static void main(String args[]){
         System.out.print("******** NUMBER GUESSING GAME ******** ");
         System.out.println();
